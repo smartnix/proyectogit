@@ -3,3 +3,18 @@ body{
     color: deeppink;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+#container{
+    border: dimgray solid;
+    margin: auto;
+}
+
+#post{
+    border: steelblue solid;
+    margin: 2em;
+}
+#cabecera{
+    border: steelblue solid;
+    margin: 2em;
+    padding: 3em;
+}

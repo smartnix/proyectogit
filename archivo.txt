@@ -1,3 +1,7 @@
 esto es una prueba de gt
 
 un cambio despues de un checkout
+
+cambio en el archivo principal 
+
+ahora si va el cambio

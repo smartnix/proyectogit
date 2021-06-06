@@ -1,1 +1,2 @@
-Archivo 2
+Archivo 2 
+cambios en el archivo2

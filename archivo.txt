@@ -1,2 +1,4 @@
 esto es una prueba de git 
 con otro cambio
+
+Cambio con rama master y quinto despues de un reset

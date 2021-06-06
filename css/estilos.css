@@ -7,3 +7,18 @@ body{
     color: slategray;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#container{
+    border: dimgray solid;
+    margin: auto;
+}
+
+#post{
+    border: steelblue solid;
+    margin: 2em;
+}
+#cabecera{
+    border: steelblue solid;
+    margin: 2em;
+    padding: 3em;
+    background-color:rosybrown;
+}
